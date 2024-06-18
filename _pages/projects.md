@@ -1,12 +1,25 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [work, fun]
 horizontal: false
+dropdown: true
+children:
+  - title: Machine learning-enabled self-assembly engineering of crystalline high-entropy alloys through polydispersity
+    permalink: /projects/hea
+  - title: divider
+  - title: Enhancing the self-assembly of binary colloidal crystals with confinement
+    permalink: /projects/binary_colloidal_crystals
+  - title: divider
+  - title: Self-assembly of complex triangle–square tilings via molecular dynamics simulations
+    permalink: /projects/monolayer_tilings
+  - title: divider
+  - title: Kinetic Monte Carlo simulation of incoherent twin boundary migration during Cu deposition
+    permalink: /projects/itb
 ---
 
 <!-- pages/projects.md -->
