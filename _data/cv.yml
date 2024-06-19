@@ -1,14 +1,10 @@
-- title: General Information
+- title: Overview
   type: map
   contents:
     - name: Name
       value: Nathan C. Huang
     - name: Current Position
       value: Process Engineer at Intel
-    - name: Email
-      value: nathan.huang.hzc@gmail.com
-    - name: Phone
-      value: (914) 486-0243
 
 - title: Education
   type: time_table
@@ -26,19 +22,27 @@
       year: 2023
 
 - title: Honors & Awards
-  type: time_table
+  type: awards
   contents:
-    - year: 2023
-      items:
-        - Bartels Engineering Student Travel Award
-        - Senior Thesis Award
-        - 1st Place Senior Thesis Poster
-    - year: 2020
-      items:
-        - Engineering Learning Initiatives Undergraduate Research Award
-    - year: 2019
-      items:
-        - National Merit Scholar
+    - title: Bartels Engineering Student Travel Award
+      awarder: Cornell University
+      year: 2023
+
+    - title: Senior Thesis Award
+      awarder: Cornell University
+      year: 2023
+
+    - title: 1st Place Senior Thesis Poster 
+      awarder: Cornell University
+      year: 2023
+
+    - title: Engineering Learning Initiatives Undergraduate Research Award
+      awarder: Cornell University
+      year: 2020
+
+    - title: National Merit Scholar
+      awarder: National Merit Scholarship Corporation
+      year: 2019
 
 - title: Publications
   type: time_table
