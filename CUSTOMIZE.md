@@ -9,21 +9,13 @@ The project is structured as follows, focusing on the main components that you w
 ```txt
 .
 ├── 📂 assets/: contains the assets that are displayed in the website
-│   └── 📂 json/
-    │   └── 📄 resume.json: CV in JSON format (https://jsonresume.org/)
 ├── 📂 _bibliography/
 │   └── 📄 papers.bib: bibliography in BibTeX format
 ├── 📄 _config.yml: the configuration file of the template
 ├── 📂 _data/: contains some of the data used in the template
 │   ├── 📄 cv.yml: CV in YAML format, used when assets/json/resume.json is not found
-│   └── 📄 repositories.yml: users and repositories info in YAML format
 ├── 📂 _includes/: contains code parts that are included in the main HTML file
-│   └── 📄 news.liquid: defines the news section layout in the about page
 ├── 📂 _layouts/: contains the layouts to choose from in the frontmatter of the Markdown files
-├── 📂 _news/: the news that will appear in the news section in the about page
-├── 📂 _pages/: contains the pages of the website
-|   └── 📄 404.md: 404 page (page not found)
-├── 📂 _posts/: contains the blog posts
 ├── 📂 _projects/: contains the projects
 └── 📂 _sass/: contains the SASS files that define the style of the website
     ├── 📄 _base.scss: base style of the website
@@ -48,19 +40,9 @@ There are currently 2 different ways of generating the CV page content. The firs
 
 What this means is, if there is no resume data defined in [\_config.yml](_config.yml) and loaded via a json file, it will load the contents of [\_data/cv.yml](_data/cv.yml). If you want to use the [\_data/cv.yml](_data/cv.yml) file as the source of your CV, you must delete the [assets/json/resume.json](assets/json/resume.json) file.
 
-## Modifying the user and repository information
-
-The user and repository information is defined in [\_data/repositories.yml](_data/repositories.yml). You can add as many users and repositories as you want. Both informations are used in the `repositories` section.
-
 ## Creating new pages
 
 You can create new pages by adding new Markdown files in the [\_pages](_pages/) directory. The easiest way to do this is to copy an existing page and modify it. You can choose the layout of the page by changing the [layout](https://jekyllrb.com/docs/layouts/) attribute in the [frontmatter](https://jekyllrb.com/docs/front-matter/) of the Markdown file, and also the path to access it by changing the [permalink](https://jekyllrb.com/docs/permalinks/) attribute. You can also add new layouts in the [\_layouts](_layouts/) directory if you feel the need for it.
-
-## Creating new blog posts
-
-To create a new blog post, you can add a new Markdown file in the [\_posts](_posts/) directory. The [name of the file must follow](https://jekyllrb.com/docs/posts/#creating-posts) the format `YYYY-MM-DD-title.md`. The easiest way to do this is to copy an existing blog post and modify it. Note that some blog posts have optional fields in the [frontmatter](https://jekyllrb.com/docs/front-matter/) that are used to enable specific behaviors or functions.
-
-If you want to create blog posts that are not ready to be published, but you want to track it with git, you can create a [\_drafts](https://jekyllrb.com/docs/posts/#drafts) directory and store them there.
 
 ## Creating new projects
 
