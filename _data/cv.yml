@@ -1,95 +1,96 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Nathan Chen Huang
+    - name: Name
+      value: Nathan C. Huang
     - name: Current Position
       value: Process Engineer at Intel
+    - name: Email
+      value: nathan.huang.hzc@gmail.com
+    - name: Phone
+      value: (914) 486-0243
 
 - title: Education
   type: time_table
   contents:
     - title: Master of Engineering
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      institution: Cornell University
+      department: Materials Science and Engineering
+      location: Ithaca, NY
+      year: 2024
 
-- title: Experience
+    - title: Bachelor of Science with Honors
+      institution: Cornell University
+      department: Materials Science and Engineering
+      location: Ithaca, NY
+      year: 2023
+
+- title: Honors & Awards
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - year: 2023
+      items:
+        - Bartels Engineering Student Travel Award
+        - Senior Thesis Award
+        - 1st Place Senior Thesis Poster
+    - year: 2020
+      items:
+        - Engineering Learning Initiatives Undergraduate Research Award
+    - year: 2019
+      items:
+        - National Merit Scholar
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Publications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Enhancing the Self-Assembly of Binary Colloidal Crystals with Confinement
+      authors: <b>Nathan Huang</b>, Rachael S. Skye, and Julia Dshemuchadse
+      year: in prep.
 
-- title: Honors and Awards
+- title: Presentations
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Enhancing the Self-Assembly of Binary Colloidal Crystals with Confinement
+      authors: <b>Nathan Huang</b>, Rachael S. Skye, and Julia Dshemuchadse
+      location: Boston, MA
+      year: 11.2023
+      presentation: Poster presentation delivered at Materials Research Society Fall Meeting & Exhibition 2023
 
-- title: Academic Interests
-  type: nested_list
+- title: Professional Experience
+  type: time_table
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Process Engineer
+      company: <a href="https://www.intel.com/"> Intel</a>
+      location: Hillsboro, OR
+      year: 08.2024 – 
+      description:
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Materials Intern
+      company: <a href="https://www.formlabs.com/"> Formlabs</a>
+      location: Somerville, MA
+      year: 06.2023 – 08.2023
+      description:
+
+    - title: Materials Intern
+      company: <a href="https://www.azul3d.com/"> Azul 3D</a>
+      location: Evanston, IL
+      year: 05.2022 – 08.2023
+      description:
+
+    - title: Materials Engineering Intern
+      company: <a href="https://www.tesla.com/"> Tesla</a>
+      location: Fremont, CA
+      year: 08.2021 – 12.2021
+      description:
+
+- title: Teaching Experience
+  type: time_table
+  contents: 
+    - title: Computational Materials Science (MSE 5720)
+      year: Spring 2024
+    - title: Thermodynamics of Condensed Systems (MSE 3030/5830)
+      year: Fall 2023
+    - title: Materials Design Concepts I (MSE 3070)
+      year: Spring 2023
+    - title: Mechanical Properties of Materials (MSE 2610)
+      year: Fall 2022
