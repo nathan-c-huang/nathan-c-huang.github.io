@@ -15,8 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an incoming Process Engineer at Intel. 
+In August, I will be starting my new position as a Process Engineer at Intel. 
 
-I graduated with a M.Eng. and B.S. in Materials Science and Engineering from Cornell University, advised by <a href="https://www.mse.cornell.edu/faculty-directory/julia-dshemuchadse/"> Julia Dshemuchadse</a>. As part of the <a href="https://capecrystal.mse.cornell.edu/">CAPE CryStAL<a> research group, I investigated the self-assembly processes of monolayer materials, colloidal crystals, and high-entropy alloys using coarse-grained molecular dynamics and hard particle Monte Carlo simulations. 
+I graduated with a M.Eng. and B.S. in Materials Science and Engineering from Cornell University, advised by <a href="https://www.mse.cornell.edu/faculty-directory/julia-dshemuchadse"> Julia Dshemuchadse</a>. As part of the <a href="https://capecrystal.mse.cornell.edu">CAPE CryStAL<a> research group, I investigated self-assembly kinetics and structure of monolayer materials, colloidal crystals, and high-entropy alloys using coarse-grained molecular dynamics and hard particle Monte Carlo simulations. 
+
+I enjoy swimming and playing badminton. I am also an amateur music producer.
 
 More to come...!
