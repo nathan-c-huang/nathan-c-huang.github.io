@@ -8,4 +8,7 @@ category: research
 related_publications: false
 ---
 
-coming soon
+Overview:
+* Investigated the influence of atomic size distribution on the phase stability and crystal structure of high-entropy alloys
+* Performed coarse-grained molecular dynamics simulations of multi-component systems
+* Trained predictive SVR model for five-component HEA assemblies based on size dispersity and composition of constituent elements. 
