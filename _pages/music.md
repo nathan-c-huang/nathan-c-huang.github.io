@@ -3,7 +3,7 @@ layout: page
 permalink: /music/
 title: Music
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 Check out some of my latest songs and remixes!
