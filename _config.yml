@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Nathan Huang # the website title (if blank, full name will be used instead)
+title: Nathan C. Huang # the website title (if blank, full name will be used instead)
 first_name: Nathan
 middle_name: C.
 last_name: Huang
 email: nathan.huang.hzc@gmail.com
 description: >
-  Personal website for Nathan Huang.
+  Nathan C. Huang
 footer_text: >
   
 keywords: # add your own keywords or leave empty

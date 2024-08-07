@@ -4,7 +4,7 @@
     - name: Name
       value: Nathan C. Huang
     - name: Current Position
-      value: Process Engineer at Intel
+      value: LTD Module Engineer at Intel
 
 - title: Education
   type: time_table
@@ -63,7 +63,7 @@
 - title: Professional Experience
   type: time_table
   contents:
-    - title: Process Engineer
+    - title: LTD Module Engineer
       company: <a href="https://www.intel.com/"> Intel</a>
       location: Hillsboro, OR
       year: 08.2024 – 
