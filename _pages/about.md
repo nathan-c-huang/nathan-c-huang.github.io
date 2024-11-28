@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a Process Engineer at Intel. 
+I am currently working at Intel as a process engineer.  
 
 I graduated with a B.S. and M.Eng. in Materials Science and Engineering from Cornell University, advised by <a href="https://www.mse.cornell.edu/faculty-directory/julia-dshemuchadse"> Prof. Julia Dshemuchadse</a>. As part of the <a href="https://capecrystal.mse.cornell.edu">CAPE CryStAL<a> research group, I investigated self-assembly kinetics and structure of monolayer materials, colloidal crystals, and high-entropy alloys using coarse-grained molecular dynamics and hard particle Monte Carlo simulations. 
 
