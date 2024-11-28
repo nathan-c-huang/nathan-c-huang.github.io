@@ -4,7 +4,7 @@
     - name: Name
       value: Nathan C. Huang
     - name: Current Position
-      value: LTD Module Engineer at Intel
+      value: LTD Module Engineer at Intel Corporation
 
 - title: Education
   type: time_table
@@ -64,7 +64,7 @@
   type: time_table
   contents:
     - title: LTD Module Engineer
-      company: <a href="https://www.intel.com/"> Intel</a>
+      company: <a href="https://www.intel.com/"> Intel Corporation</a>
       location: Hillsboro, OR
       year: 08.2024 – 
       description:
