@@ -13,13 +13,13 @@
       institution: Cornell University
       department: Materials Science and Engineering
       location: Ithaca, NY
-      year: 2024
+      year: May 2024
 
     - title: Bachelor of Science with Honors
       institution: Cornell University
       department: Materials Science and Engineering
       location: Ithaca, NY
-      year: 2023
+      year: Dec. 2023
 
 - title: Honors & Awards
   type: awards
@@ -47,9 +47,10 @@
 - title: Publications
   type: time_table
   contents:
-    - title: Enhancing the Self-Assembly of Binary Colloidal Crystals with Confinement
+    - title: Advancing the Self-Assembly of Binary Colloidal Crystals with Confinement
       authors: <b>Nathan Huang</b>, Rachael S. Skye, and Julia Dshemuchadse
-      year: in prep.
+      year: 11.2025
+      description: <a href="https://doi.org/10.1039/D5ME00092K"> <b><i>Mol. Syst. Des. Eng.</i></b>, 2026, <b>11</b>, 62-69<a>
 
 - title: Presentations
   type: time_table
